@@ -23,7 +23,7 @@ async def on_message(message):
 
         # Send the generated meme to Discord
         await message.channel.send(meme['url'])
-client.run('MTA3MTAzMjk1MDA2MzM3ODQ1Mw.GSwQ-p.LkuxqHjaAdD8drX03wpM7wsbLyJpYnC9oFsqps')
+client.run('token_here')
 # Login to Discord
 
 
